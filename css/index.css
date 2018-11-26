@@ -1,4 +1,26 @@
 #calculator {
 	background-color: blue;
-	height: 30rem;
+	height: 25rem;
+	width: 18rem;
 }
+
+input {
+	text-align: right;
+}
+
+.card-header {
+	padding: .35rem;
+}
+
+button {
+	width: 3.5rem;
+	height: 87%;
+	margin-top: .6rem;
+	height: 3.5rem;
+	font-size: 3rem;
+}
+
+div {
+	border: 1px solid pink;
+}
+
