@@ -1,6 +1,6 @@
 #calculator {
 	background-color: blue;
-	height: 25rem;
+	height: 23rem;
 	width: 18rem;
 }
 
@@ -15,12 +15,14 @@ input {
 button {
 	width: 3.5rem;
 	height: 87%;
-	margin-top: .6rem;
+	margin-top: .4rem;
 	height: 3.5rem;
-	font-size: 3rem;
 }
 
-div {
-	border: 1px solid pink;
+.btn {
+	font-size: 1.5rem;	
 }
 
+.card-body {
+	padding-left: .5rem;
+}
