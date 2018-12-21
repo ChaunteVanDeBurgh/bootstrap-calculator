@@ -1,5 +1,8 @@
 const writedisplay = (x) => {
-	document.getElementById("display").value = x;
+	let current_display = document.getElementById("display").value;
+	let input = (x);
+	next_display = current_display + input;
+	document.getElementById("display").value = next_display;
 };
 
 const cleardisplay = () => {
